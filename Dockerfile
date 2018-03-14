@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:v3
+gcr.io/google_containers/defaultbackend:1.4
